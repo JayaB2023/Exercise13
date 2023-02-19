@@ -1,3 +1,4 @@
+# Ex 12 - Lotto
 import random
 # this below is an empty list which will store 6 random numbers
 lotteryNumbers = []
